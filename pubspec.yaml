@@ -1,6 +1,6 @@
 name: wifluttings
 description: Redirect your Flutter application to the Native WiFi Settings.
-version: 0.0.3
+version: 0.1.0
 author: Angel Duran <AngeeelD@gmail.com>
 homepage: https://github.com/AngeeelD/wifluttings
 

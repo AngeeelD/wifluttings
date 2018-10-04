@@ -10,3 +10,7 @@
 ## 0.0.3
 
 * There is no changes in the functionality, just was changes in the example and the README.md
+
+## 0.1.0
+
+* There is no changes in the functionality, just was increased the version to a stable version name.
