@@ -1,8 +1,8 @@
 name: wifluttings
-description: Redirecto to WiFi options Plugin.
+description: Redirect to WiFi options Plugin.
 version: 0.0.1
-author: Angel Duran
-homepage:
+author: Angel Duran <AngeeelD@gmail.com>
+homepage: https://github.com/AngeeelD/wifluttings
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
