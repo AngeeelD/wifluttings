@@ -10,6 +10,10 @@ Redirect your Flutter application to the Native WiFi Settings.
     - **Android**
     - **iOS**
 
+## Preview
+
+![preview](https://media.giphy.com/media/1jY48ouM5WSidIwVdh/giphy.gif)
+
 ## Getting Started
 
 First, you need add **wifluttings** in the dependencies list:

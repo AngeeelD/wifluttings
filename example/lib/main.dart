@@ -17,7 +17,7 @@ class _MyAppState extends State<MyApp> {
   @override
   void initState() {
     super.initState();
-    initPlatformState();
+//    initPlatformState();
   }
 
   // Platform messages are asynchronous, so we initialize in an async method.
@@ -47,9 +47,22 @@ class _MyAppState extends State<MyApp> {
         appBar: new AppBar(
           title: const Text('Wifluttings example app'),
         ),
-        body: new Center(
-          child: new Text('Wifi settings was Opened?: $_wifiSettingsWasOpened\n'),
-        ),
+        body: SizedBox.expand(
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            crossAxisAlignment: CrossAxisAlignment.center,
+            children: <Widget>[
+              new Text('Wifi settings was Opened?: $_wifiSettingsWasOpened\n'),
+              RaisedButton(
+                child: Text("open wifi settings".toUpperCase(),),
+                color: Colors.blue,
+                textColor: Colors.white,
+                elevation: 4.0,
+                onPressed: this.initPlatformState,
+              )
+            ],
+          )
+        )
       ),
     );
   }
