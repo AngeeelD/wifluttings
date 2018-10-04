@@ -2,7 +2,7 @@
 
 Redirect your Flutter application to the Native WiFi Settings.
 
-[![Version](https://img.shields.io/badge/version-0.0.2-blue.svg)](https://pub.dartlang.org/packages/wifluttings)
+[![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://pub.dartlang.org/packages/wifluttings)
 
 ## Features
 
@@ -20,7 +20,7 @@ First, you need add **wifluttings** in the dependencies list:
 
 ```yalm
 dependencies:
-  wifluttings: 0.0.2
+  wifluttings: 0.1.0
 ```
 
 Then, you will need import the class:
