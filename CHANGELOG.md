@@ -14,3 +14,7 @@
 ## 0.1.0
 
 * There is no changes in the functionality, just was increased the version to a stable version name.
+
+## 0.1.0
+
+* There is no changes in the functionality, just was adjusted the version to a stable version name.
