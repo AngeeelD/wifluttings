@@ -35,7 +35,7 @@ Finally, you could redirect your application to the Native WiFi Settings with:
 Wifluttings.openNativeWifiSettings;
 ```
 
-if you need check if the settings was opened, you could check the **wifluttings* response like:
+if you need check if the settings was opened, you could check the **wifluttings** response like:
 
 ```dart
 bool settingsWasOpened = await Wifluttings.openNativeWifiSettings; 
