@@ -1,6 +1,6 @@
 name: wifluttings
-description: Redirect to WiFi options Plugin.
-version: 0.0.1
+description: Redirect your Flutter application to the Native WiFi Settings.
+version: 0.0.2
 author: Angel Duran <AngeeelD@gmail.com>
 homepage: https://github.com/AngeeelD/wifluttings
 
