@@ -15,6 +15,14 @@
 
 * There is no changes in the functionality, just was increased the version to a stable version name.
 
-## 0.1.0
+## 0.1.1    
+
+* There is no changes in the functionality, just was adjusted the version to a stable version name.
+
+## 0.1.2
+
+* Gradle and Kotlin version updated.
+
+## 0.1.3
 
 * There is no changes in the functionality, just was adjusted the version to a stable version name.
